@@ -42,11 +42,11 @@
 
 	/* text colors */
 	--text-0: white; /* text on colored elements */
-	--text-1: var(--text-2); /* other normally white text */
-	--text-2: hsl(279, 20%, 80%); /* headings and important text */
-	--text-3: hsl(283, 16%, 71%); /* normal text */
-	--text-4: hsl(279, 9%, 61%); /* icon buttons and channels */
-	--text-5: hsl(279, 10%, 46%); /* muted channels/chats and timestamps */
+	--text-1: hsl(281, 14%, 58%); /* other normally white text */
+	--text-2: hsl(282, 44%, 92%); /* headings and important text */
+	--text-3: hsl(285, 10%, 76%); /* normal text */
+	--text-4: hsl(279, 8%, 66%); /* icon buttons and channels */
+	--text-5: hsl(279, 11%, 37%); /* muted channels/chats and timestamps */
 
 	/* background and dark colors */
 	--bg-1: hsl(270, 15%, 20%); /* dark buttons when clicked */
@@ -73,7 +73,7 @@
 	--roundness-m: 12px; /* smaller panels, images, embeds */
 	--roundness-s: 10px; /* members, settings inputs */
 	--roundness-xs: 10px; /* channels, buttons */
-	--roundness-xxs: 10px; /* searchbar, small elements */
+	--roundness-xxs: 5px; /* searchbar, small elements */
 
 	/* direct messages moon icon */
 	/* change to block to show, none to hide */
