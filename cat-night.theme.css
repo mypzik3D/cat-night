@@ -68,7 +68,7 @@
 	--icon-spin-transition: 1s ease; /* round icon button spin (settings, emoji, etc.) */
 
 	/* corner roundness (border-radius) */
-	--roundness-xl: 12px; /* roundness of big panel outer corners */
+	--roundness-xl: 16px; /* roundness of big panel outer corners */
 	--roundness-l: 10px; /* popout panels */
 	--roundness-m: 12px; /* smaller panels, images, embeds */
 	--roundness-s: 10px; /* members, settings inputs */
