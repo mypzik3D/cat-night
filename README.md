@@ -9,4 +9,4 @@ better-discord night theme
 
 
 ## how to install
-drag cat-night.theme.css in theme folider
+drag cat-night/dark.theme.css in theme folider
