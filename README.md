@@ -2,10 +2,12 @@
 better-discord night theme
 
 ### cat-night -------------------------
-![cat-night](https://github.com/mypzik3D/cat-night/assets/149926497/535df6b8-fe03-4534-b44b-2b870ddfc29d)
+![cat-night](https://github.com/mypzik3D/cat-night/assets/149926497/24108b96-11e5-46d9-9d37-89da03fa0a83)
+
 
 ### cat-dark --------------------------
-![cat-dark](https://github.com/mypzik3D/cat-night/assets/149926497/425b10a2-a9e6-4ac1-b8bf-7d347784cd80)
+![cat-dark](https://github.com/mypzik3D/cat-night/assets/149926497/d88e8e08-af1c-4859-a9e4-5102ab76a43d)
+
 
 
 ## how to install
